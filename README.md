@@ -36,7 +36,7 @@ This work reflects my ability to develop, optimize, and deploy AI models, applyi
 I’m a Sr. Manufacturing Solution Architect with expertise in AI/ML, Cloud Computing, and Digital Transformation. 
 I specialize in leading AI-driven initiatives that optimize business operations and drive innovation.
 
-📩 Connect with me on LinkedIn: [https://www.linkedin.com/in/sgupta78/]
+📩 Connect with me on LinkedIn: https://www.linkedin.com/in/ranjanmitra-74363285/
 
 ✨ Final Thoughts
 
